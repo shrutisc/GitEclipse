@@ -11,6 +11,6 @@ public class shruti_test
     @Test
     public void additon()
     {
-    	System.out.println("Addition is : "+ (3+4 ));
+    	System.out.println("Addition is : "+ (3+4+5 ));
     }
 }
